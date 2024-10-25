@@ -18,7 +18,7 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone.git
+    git clone https://github.com/Mayuresh308/Telegram-app.git
     cd Hamster-Kombat-Telegram-Mini-App-Clone
     ```
 
@@ -70,7 +70,5 @@ To get started with either the initial setup or the final version, follow these 
 
     Navigate to localhost to see the final version of the application.
 
-## Contact
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
 
